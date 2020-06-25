@@ -1,0 +1,15 @@
+Task:
+
+Write a demo process dealing with user registration
+
+The process might contain the following functions:
+1. save to db
+2. send email
+3. send sms
+4. apply promotion
+5. apply notification to sales/operation
+6. others
+
+Make sure the implementation use proper design to be:
+1. easy to extend other business requirements after user registration
+2. efficiency and non blocking
